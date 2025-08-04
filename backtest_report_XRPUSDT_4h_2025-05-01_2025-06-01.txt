@@ -1,0 +1,139 @@
+
+=== SUPPORT & RESISTANCE BACKTEST REPORT ===
+
+Symbol: XRPUSDT
+Interval: 4h
+Period: 2025-05-01 to 2025-06-01
+Total Candles: 186
+Analysis Window: 100 candles
+Test Window: 7 days
+Total Test Points: 2
+
+=== OVERALL PERFORMANCE ===
+
+SHORT TERM ANALYSIS:
+  Support Levels:
+    Total Levels Tested: 7
+    Total Touches: 54
+    Total Bounces: 10
+    Average Effectiveness: 31.67%
+  Resistance Levels:
+    Total Levels Tested: 10
+    Total Touches: 23
+    Total Bounces: 13
+    Average Effectiveness: 70.83%
+
+MID TERM ANALYSIS:
+  Support Levels:
+    Total Levels Tested: 9
+    Total Touches: 45
+    Total Bounces: 13
+    Average Effectiveness: 38.83%
+  Resistance Levels:
+    Total Levels Tested: 5
+    Total Touches: 13
+    Total Bounces: 7
+    Average Effectiveness: 62.50%
+
+LONG TERM ANALYSIS:
+  Support Levels:
+    Total Levels Tested: 9
+    Total Touches: 45
+    Total Bounces: 13
+    Average Effectiveness: 38.83%
+  Resistance Levels:
+    Total Levels Tested: 5
+    Total Touches: 13
+    Total Bounces: 7
+    Average Effectiveness: 62.50%
+
+=== DETAILED TEST POINTS ===
+
+--- Test Point 1 ---
+Timestamp: 2025-05-17 12:00:00
+Price: 2.33300000
+  SHORT TERM:
+    Resistances:
+      - Level: 2.65490000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.60530000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.50560000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.48440000 (Touches: 2, Bounces: 2, Effectiveness: 100.00%)
+      - Level: 2.43990000 (Touches: 8, Bounces: 5, Effectiveness: 62.50%)
+      - Level: 2.38920000 (Touches: 6, Bounces: 4, Effectiveness: 66.67%)
+    Supports:
+      - Level: 2.54060000
+      - Level: 2.51940000
+      - Level: 2.42150000
+      - Level: 2.34710000
+      - Level: 2.32830000 (Touches: 12, Bounces: 4, Effectiveness: 33.33%)
+      - Level: 2.31260000 (Touches: 3, Bounces: 1, Effectiveness: 33.33%)
+  MID TERM:
+    Resistances:
+      - Level: 2.65490000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.44000000 (Touches: 8, Bounces: 5, Effectiveness: 62.50%)
+      - Level: 2.25670000
+      - Level: 2.21880000
+      - Level: 2.17160000
+    Supports:
+      - Level: 2.51940000
+      - Level: 2.32830000 (Touches: 12, Bounces: 4, Effectiveness: 33.33%)
+      - Level: 2.31260000 (Touches: 3, Bounces: 1, Effectiveness: 33.33%)
+      - Level: 2.28450000 (Touches: 5, Bounces: 4, Effectiveness: 80.00%)
+      - Level: 2.17600000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.07770000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+  LONG TERM:
+    Resistances:
+      - Level: 2.65490000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.44000000 (Touches: 8, Bounces: 5, Effectiveness: 62.50%)
+      - Level: 2.25670000
+      - Level: 2.21880000
+      - Level: 2.17160000
+    Supports:
+      - Level: 2.51940000
+      - Level: 2.32830000 (Touches: 12, Bounces: 4, Effectiveness: 33.33%)
+      - Level: 2.31260000 (Touches: 3, Bounces: 1, Effectiveness: 33.33%)
+      - Level: 2.28450000 (Touches: 5, Bounces: 4, Effectiveness: 80.00%)
+      - Level: 2.17600000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.07770000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+
+--- Test Point 2 ---
+Timestamp: 2025-05-21 16:00:00
+Price: 2.38990000
+  SHORT TERM:
+    Resistances:
+      - Level: 2.50560000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.44970000 (Touches: 4, Bounces: 1, Effectiveness: 25.00%)
+      - Level: 2.40900000 (Touches: 2, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.39440000 (Touches: 1, Bounces: 1, Effectiveness: 100.00%)
+    Supports:
+      - Level: 2.34710000 (Touches: 5, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.33080000 (Touches: 10, Bounces: 1, Effectiveness: 10.00%)
+      - Level: 2.31410000 (Touches: 5, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.29840000 (Touches: 11, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.28270000 (Touches: 8, Bounces: 4, Effectiveness: 50.00%)
+  MID TERM:
+    Resistances:
+      - Level: 2.65490000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.44970000 (Touches: 4, Bounces: 1, Effectiveness: 25.00%)
+      - Level: 2.39440000 (Touches: 1, Bounces: 1, Effectiveness: 100.00%)
+      - Level: 2.20000000
+      - Level: 2.17160000
+    Supports:
+      - Level: 2.51940000
+      - Level: 2.33080000 (Touches: 10, Bounces: 1, Effectiveness: 10.00%)
+      - Level: 2.31260000 (Touches: 7, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.28450000 (Touches: 8, Bounces: 3, Effectiveness: 37.50%)
+      - Level: 2.07770000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+  LONG TERM:
+    Resistances:
+      - Level: 2.65490000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.44970000 (Touches: 4, Bounces: 1, Effectiveness: 25.00%)
+      - Level: 2.39440000 (Touches: 1, Bounces: 1, Effectiveness: 100.00%)
+      - Level: 2.20000000
+      - Level: 2.17160000
+    Supports:
+      - Level: 2.51940000
+      - Level: 2.33080000 (Touches: 10, Bounces: 1, Effectiveness: 10.00%)
+      - Level: 2.31260000 (Touches: 7, Bounces: 0, Effectiveness: 0.00%)
+      - Level: 2.28450000 (Touches: 8, Bounces: 3, Effectiveness: 37.50%)
+      - Level: 2.07770000 (Touches: 0, Bounces: 0, Effectiveness: 0.00%)
